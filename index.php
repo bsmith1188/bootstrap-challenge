@@ -77,8 +77,10 @@
 			<div class="row">
 				<div class="col-xs-4">
 					<img src="/images/heart_of_griever.png" alt="heart of griever image"/>
+					<p>potatopotatopotatopotatopotatopotatopotato</p>
 				</div>
 			</div>
 		</div>
+
 	</body>
 </html>
